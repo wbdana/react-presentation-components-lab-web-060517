@@ -1,7 +1,7 @@
 # React Presentation Components Lab
 
 ## Overview
-In this lab, you'll write a presentation component with minimal UI state and as a stateless function. 
+In this lab, you'll write a presentation component with minimal UI state and as a stateless function.
 
 ## Overview
 Presentation component are also frequently called "simple" components. Why? Because other than rendering themselves, they really don't know how to do much else. But, as we've seen, there's something blissful about being "simple" if you are a component.
